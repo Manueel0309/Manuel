@@ -1,0 +1,52 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "edad": 20,
+      "curso": "Matemáticas"
+    },
+    {
+      "id": 2,
+      "nombre": "María González",
+      "edad": 22,
+      "curso": "Matematicas"
+    },
+    {
+      "id": 3,
+      "nombre": "Pedro Ramirez",
+      "edad": 19,
+      "curso": "Matematicas"
+    }
+    {
+      "id": 4,
+      "nombre": "Alexis Soto",
+      "edad": 19,
+      "curso": "Matematicas"
+    }
+    {
+      "id": 5,
+      "nombre": "Camila Ramirez",
+      "edad": 21,
+      "curso": "Matematicas"
+    }
+    {
+      "id": 6,
+      "nombre": "Cristian Rojas",
+      "edad": 22,
+      "curso": "Matematicas"
+    }
+    {
+      "id": 7,
+      "nombre": "Cristina Araneda",
+      "edad": 18,
+      "curso": "Matematicas"
+    }
+    {
+      "id": 8,
+      "nombre": "Sayen Aros",
+      "edad": 20,
+      "curso": "Matematicas"
+    }
+  ]
+}
